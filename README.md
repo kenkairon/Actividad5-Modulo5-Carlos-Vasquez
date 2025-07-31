@@ -5,26 +5,6 @@ Automatizar pruebas de transferencias bancarias con diferentes escenarios de ent
 
 ---
 
-## 📁 Estructura del Proyecto
-
-bdd-bank-transfer/
-├── src/
-│ ├── test/
-│ │ ├── java/
-│ │ │ ├── runner/
-│ │ │ │ └── RunCucumberTest.java
-│ │ │ ├── steps/
-│ │ │ │ └── BankTransferSteps.java
-│ │ │ └── pages/
-│ │ │ └── BankTransferPage.java
-│ │ └── resources/
-│ │ └── features/
-│ │ └── bank_transfer.feature
-├── pom.xml
-
-
----
-
 ## 📄 Escenarios Cubiertos
 
 ✅ **Escenario 1: Transferencia exitosa**  
