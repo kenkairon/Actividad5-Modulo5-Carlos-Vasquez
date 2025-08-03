@@ -27,6 +27,8 @@ Automatizar pruebas de transferencias bancarias con diferentes escenarios de ent
 - Edad: 35
 
 ---
+## :camera: imagen 
+---
 
 ## 🧪 Cómo Ejecutar las Pruebas
 
