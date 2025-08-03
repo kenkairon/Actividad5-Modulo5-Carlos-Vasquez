@@ -28,6 +28,7 @@ Automatizar pruebas de transferencias bancarias con diferentes escenarios de ent
 
 ---
 ## :camera: imagen 
+[![imagen](imagen/foto.png)]
 ---
 
 ## 🧪 Cómo Ejecutar las Pruebas
